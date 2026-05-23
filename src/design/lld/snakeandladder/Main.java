@@ -1,4 +1,6 @@
-package design.lld.snakeandladder.entity;
+package design.lld.snakeandladder;
+
+import design.lld.snakeandladder.entity.*;
 
 import java.util.List;
 import java.util.Map;
