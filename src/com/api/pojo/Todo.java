@@ -1,4 +1,4 @@
-package com.api.client;
+package com.api.pojo;
 
 public class Todo {
     private int userId;
