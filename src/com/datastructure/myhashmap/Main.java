@@ -2,7 +2,7 @@ package com.datastructure.myhashmap;
 
 public class Main {
     public static void main(String[] args) {
-        MyHashMap<String, Integer> map = new MyHashMap<>(4);
+        MyHashMap<String, Integer> map = new MyHashMap<>();
         map.put("one", 1);
         map.put("two", 2);
 
